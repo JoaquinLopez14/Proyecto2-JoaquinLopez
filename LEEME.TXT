@@ -1,0 +1,17 @@
+Aplicacion CRUD - Proyecto Integrador 2 - Joaquín López
+
+Para esta aplicacion elegi el endpoint del Supermercado, al cual llame en Compass como "market" su coleccion tiene el mismo nombre para evitar confusiones
+
+La misma tiene la funcion de: Consultar, Modificar, Agregar y Eliminar productos del Supermercado.
+
+Para conectarse a la base de datos de MongoDB debera verificar la ruta escrita en el archivo .env con su correspondiente usuario y contraseña.
+
+Para ejecutar la aplicacion debera:
+
+1: Instalar las dependencias usando "npm install" en la carpeta raiz del Proyecto.
+
+2: Ejecutar "node main.js" en la carpeta raiz del Proyecto.
+
+Espero que el codigo sea legible y este correctamente identado.
+
+Ante cualquier duda consultar.
